@@ -420,7 +420,7 @@
     <ignoreMissingPath>N</ignoreMissingPath>
     <rownum_field/>
     <file>
-      <name>&#x2f;home&#x2f;juan&#x2f;json.js</name>
+      <name/>
       <filemask/>
       <exclude_filemask/>
       <file_required>N</file_required>
